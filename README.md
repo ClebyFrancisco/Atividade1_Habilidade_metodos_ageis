@@ -8,7 +8,7 @@
 
 
 | Tarefa  | Estimativa  | Inicio previsto  | Termino previsto |Status       |  
-|---|---|---|---|
+|---|---|---|---|---|
 | Configurar ambiente | 01h  |  04/05  | 04/05  |:red_circle: |
 | Desenvolver migration para produtos |  01h | 04/05  | 04/05  |:red_circle: |
 | Desenvolver model para produtos   |  01h |  04/05 |  04/05 |:red_circle: |
