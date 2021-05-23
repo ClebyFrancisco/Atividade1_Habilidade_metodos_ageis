@@ -51,6 +51,7 @@ INSERT INTO `Desafio_Gama`.`pedidos_status` (`status`) VALUES ('APROVADA');
 INSERT INTO `Desafio_Gama`.`pedidos_status` (`status`) VALUES ('EM ANDAMENTO');
 INSERT INTO `Desafio_Gama`.`pedidos_status` (`status`) VALUES ('CANCELADA');
 INSERT INTO `Desafio_Gama`.`pedidos_status` (`status`) VALUES ('ENTREGUE');
+INSERT INTO `Desafio_Gama`.`pedidos_status` (`status`) VALUES ('AGUARDANDO PAGAMENTO');
 
 ## PEDIDOS
 
